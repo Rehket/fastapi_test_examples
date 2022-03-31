@@ -1,5 +1,5 @@
 """
-Fixtures are not compatible with unittest.TestCase
+Fixtures are NOT compatible with unittest.TestCase
 """
 from fastapi.testclient import TestClient
 from fastapi_testing import app
